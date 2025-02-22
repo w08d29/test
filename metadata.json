@@ -2,5 +2,11 @@
 	"name": "Wrapped Bitcoin (Wrapped)",
 	"symbol": "BTC",
 	"description": "Wrapped Bitcoin (Wrapped)",
-	"image": "https://scientific-cyan-shrimp.myfilebase.com/ipfs/QmUNmWQDM2pC6W56yvBVZmDcqSJ1TnJZA4Y1T9Aii4DXuQ"
+  	"image": "https://tether.to/images/logoCircle.png",
+  	"attributes": [
+    	  {	
+      	    "trait_type": "creator",
+            "value": "creator"
+          }
+       ]
 }
