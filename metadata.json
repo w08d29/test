@@ -1,8 +1,8 @@
 {
-	"name": "Wrapped Bitcoin (Wrapped)",
+	"name": "Bitcoin",
 	"symbol": "BTC",
-	"description": "Wrapped Bitcoin (Wrapped)",
-  	"image": "https://tether.to/images/logoCircle.png",
+	"description": "Bitcoin",
+  	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/120px-Bitcoin.svg.png",
   	"attributes": [
     	  {	
       	    "trait_type": "creator",
